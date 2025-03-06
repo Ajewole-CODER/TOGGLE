@@ -51,6 +51,11 @@ main {
     text-align: center;
 }
 
+.image{
+    width: fit-content;
+    height: fit-content;
+}
+
 /* Footer Styles */
 footer {
     background-color: #333;
